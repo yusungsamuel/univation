@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/univation/static/css/main.47966c06.chunk.css",
+    "main.js": "/univation/static/js/main.8b85eeca.chunk.js",
+    "main.js.map": "/univation/static/js/main.8b85eeca.chunk.js.map",
+    "runtime-main.js": "/univation/static/js/runtime-main.85023b74.js",
+    "runtime-main.js.map": "/univation/static/js/runtime-main.85023b74.js.map",
+    "static/js/2.a6292bbc.chunk.js": "/univation/static/js/2.a6292bbc.chunk.js",
+    "static/js/2.a6292bbc.chunk.js.map": "/univation/static/js/2.a6292bbc.chunk.js.map",
+    "index.html": "/univation/index.html",
+    "precache-manifest.8a7675ce054cf31fc1da275ce87d4997.js": "/univation/precache-manifest.8a7675ce054cf31fc1da275ce87d4997.js",
+    "service-worker.js": "/univation/service-worker.js",
+    "static/css/main.47966c06.chunk.css.map": "/univation/static/css/main.47966c06.chunk.css.map",
+    "static/js/2.a6292bbc.chunk.js.LICENSE.txt": "/univation/static/js/2.a6292bbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85023b74.js",
+    "static/js/2.a6292bbc.chunk.js",
+    "static/css/main.47966c06.chunk.css",
+    "static/js/main.8b85eeca.chunk.js"
+  ]
+}
